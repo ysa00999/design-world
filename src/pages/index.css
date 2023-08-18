@@ -1,0 +1,23 @@
+.ex{
+    background-color: #111111 ;
+    margin: 0px;
+    box-shadow: inset;
+    color: white;
+}
+.cb-1{
+    display: flex;
+
+   
+
+}
+
+.linha1{
+    justify-content: center;
+    display: block;
+    flex: center;
+    width: 1385px;
+    height:1px;
+    background-color: #AE9672;
+    margin-bottom: 15px;
+    margin: 0 auto;
+}
